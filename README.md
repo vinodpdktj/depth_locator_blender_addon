@@ -46,7 +46,6 @@ A Blender addon for creating depth-controlled empties on camera rays.
 4. **Click "Create Depth Locator"**
 5. **Adjust the "Depth" slider** to move the empty along the ray
 
-[Full usage guide →](docs/USAGE.md)
 
 ---
 
@@ -60,7 +59,6 @@ world_position = camera_position + normalize(target_position - camera_position) 
 ```
 
 **Perfect for:**
-- Estimating focal lengths
 - Quick VFX reference positioning
 - Depth validation
 - Camera/object relationship testing
