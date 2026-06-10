@@ -2,7 +2,7 @@
 
 A Blender addon for creating depth-controlled empties on camera rays.
 
-**Youtube Addon Demo:** [https://youtu.be/SEUtsn3_g6g]
+**Youtube Addon Demo:** [Youtube](https://youtu.be/SEUtsn3_g6g)
 **Latest Version:** 1.0.0  
 **Download:** [Gumroad](https://gumroad.com)  
 **Support:** [Report Issues](https://github.com/vinodh-vfxartist/depth_locator/issues)  
